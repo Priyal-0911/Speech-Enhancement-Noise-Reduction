@@ -1,4 +1,4 @@
-# Speech Enhancement with Sepformer
+# Speech Enhancement / Noise Reduction
 
 This repository demonstrates the process of enhancing and separating mixed audio sources, such as isolating speech from background noise, using a pre-trained model. Given a mixed audio file, the model separates and enhances individual audio sources, allowing you to save the enhanced output for further use.
 
